@@ -1,0 +1,4 @@
+Nuha Imran
+20696366
+
+The undo feature does not exist as even after making the linkedlist and the structs storing the  player movement and the snake movement,both the player and the snake werent unodoing their movement there was a fault within the coordinates that made it both change and since the snakes movement is not predictable it will be wrong to connect it to user input and then let it undo so there is no undo feature but the generic linked list and struct that stores players and snakes coordinates exists,the linked list and structs functionality have been tested in the folder called testing,rest everything works and is functional
