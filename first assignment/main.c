@@ -1,5 +1,4 @@
 /*Name:Nuha Imran*/
-/*ID:20696366*/
 /*Date:20/02/22*/
 
 #include <stdio.h>
