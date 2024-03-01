@@ -1,5 +1,5 @@
 /*Name:Nuha Imran*/
-/*ID:20696366*/
+
 #include "game.h"
 #include <stdio.h>
 #include <stdlib.h>
