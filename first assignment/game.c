@@ -1,6 +1,6 @@
 /*Name:Nuha Imran*/
 /*Date:12/02/22*/
-/*ID:20696366*/
+
 
 #include <stdio.h>
 #include "game.h"
